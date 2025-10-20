@@ -46,4 +46,4 @@ structlog>=23.0.0
 daytona-sdk<=0.111.0
 
 # WebUI dependencies
-gradio~=5.22.0
+gradio
