@@ -82,6 +82,10 @@ source .venv/bin/activate  # On Unix/macOS
 ```bash
 uv pip install -r requirements.txt
 ```
+### Install daytona-sdk
+```bash
+uv pip install daytona-sdk
+```
 
 ### Browser Automation Tool (Optional)
 ```bash
