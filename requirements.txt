@@ -42,8 +42,8 @@ huggingface-hub~=0.29.2
 setuptools~=75.8.0
 
 # Additional dependencies for logging and sandbox functionality
-structlog~=24.0.0
-daytona-sdk~=1.0.0
+structlog>=23.0.0
+daytona-sdk<=0.111.0
 
 # WebUI dependencies
 gradio~=5.22.0
